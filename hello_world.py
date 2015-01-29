@@ -1,1 +1,1 @@
-print "hello_world from mac"
+print "hello_world my name is john"
